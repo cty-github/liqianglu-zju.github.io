@@ -122,51 +122,51 @@ author_profile: true
 
 **2025**
 
-[J14] **Liqiang Lu**, Tianyao Chu\*, Siwei Tan, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: HeteroQNN: Enabling Distributed QNN under Heterogeneous Quantum Devices. **TCAD** 2025
+[J15] **Liqiang Lu**, Tianyao Chu\*, Siwei Tan, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: HeteroQNN: Enabling Distributed QNN under Heterogeneous Quantum Devices. **TCAD** 2025
 
-[J13] Debin Xiang, **Liqiang Lu**\*, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, Mingshuai Chen, Jianwei Yin\*: AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis. **TC** 2025, 74(10): 3277-3290 [Download](https://liqianglu-zju.github.io/files/journal/2025/TC_2025_AdaptDQC.pdf)
+[J14] Debin Xiang, **Liqiang Lu**\*, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, Mingshuai Chen, Jianwei Yin\*: AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis. **TC** 2025, 74(10): 3277-3290 [Download](https://liqianglu-zju.github.io/files/journal/2025/TC_2025_AdaptDQC.pdf)
 
-[J12] Zhenqian Chen#, Yuchun Zhan#, Peng Hu, Xinkui Zhao\*, Muyu Yang, Siwei Tan, Lufei Zhang, **Liqiang Lu**, Jianwei Yin, Zuoning Chen: UKFaaS: Lightweight, High-Performance and Secure FaaS Communication With Unikernel. **TC** 2025, 74(10): 3305-3318 (#These authors contributed equally.) [Download](https://liqianglu-zju.github.io/files/journal/2025/TC_2025_UKFaaS.pdf)
+[J13] Zhenqian Chen#, Yuchun Zhan#, Peng Hu, Xinkui Zhao\*, Muyu Yang, Siwei Tan, Lufei Zhang, **Liqiang Lu**, Jianwei Yin, Zuoning Chen: UKFaaS: Lightweight, High-Performance and Secure FaaS Communication With Unikernel. **TC** 2025, 74(10): 3305-3318 (#These authors contributed equally.) [Download](https://liqianglu-zju.github.io/files/journal/2025/TC_2025_UKFaaS.pdf)
 
 
 
 **2024**
 
-[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024, 44(5): 1704-1716 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_SmartQCache.pdf)
+[J12] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024, 44(5): 1704-1716 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_SmartQCache.pdf)
 
-[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024, 44(4): 1434-1447 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_QuST.pdf)
+[J11] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024, 44(4): 1434-1447 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_QuST.pdf)
 
 
 
 **2023**
 
-[J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2023, 43(4): 1177-1190 [Download](https://liqianglu-zju.github.io/files/journal/2023/TCAD_2023_Rubick.pdf)
+[J10] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2023, 43(4): 1177-1190 [Download](https://liqianglu-zju.github.io/files/journal/2023/TCAD_2023_Rubick.pdf)
 
 
 
 **2022**
 
-[J08] Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang\*: Automatic Generation of Spatial Accelerator for Tensor Algebra. **TCAD** 2022, 42(6): 1898-1911 [Download](https://liqianglu-zju.github.io/files/journal/2022/TCAD_2022_Automatic_Generation_of_Spatial_Accelerator_for_Tensor_Algebra.pdf)
+[J09] Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang\*: Automatic Generation of Spatial Accelerator for Tensor Algebra. **TCAD** 2022, 42(6): 1898-1911 [Download](https://liqianglu-zju.github.io/files/journal/2022/TCAD_2022_Automatic_Generation_of_Spatial_Accelerator_for_Tensor_Algebra.pdf)
 
 
 
 **2021**
 
-[J06] **Liqiang Lu**, Yun Liang\*: Morphling: A Reconfigurable Architecture for Tensor Computation. **TCAD** 2021, 41(11): 4733-4746 [Download](https://liqianglu-zju.github.io/files/journal/2021/TCAD_2021_Morphling.pdf)
+[J08] **Liqiang Lu**, Yun Liang\*: Morphling: A Reconfigurable Architecture for Tensor Computation. **TCAD** 2021, 41(11): 4733-4746 [Download](https://liqianglu-zju.github.io/files/journal/2021/TCAD_2021_Morphling.pdf)
 
 [J07] Yun Liang\*, Qingcheng Xiao, **Liqiang Lu**, Jiaming Xie: FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs. **TCAD** 2021, 41(8): 2546-2559 [Download](https://liqianglu-zju.github.io/files/journal/2021/TCAD_2021_FCNNLib.pdf)
 
-[J05] Yun Liang\*, **Liqiang Lu**, Yinchen Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin: An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-Based Models. **TCAD** 2021, 41(3): 597-613 [Download](https://liqianglu-zju.github.io/files/conference/2021/TCAD_2021_An_Efficient_Hardware_Design_for_Accelerating.pdf)
+[J06] Yun Liang\*, **Liqiang Lu**, Yinchen Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin: An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-Based Models. **TCAD** 2021, 41(3): 597-613 [Download](https://liqianglu-zju.github.io/files/conference/2021/TCAD_2021_An_Efficient_Hardware_Design_for_Accelerating.pdf)
 
 
 
 **2020**
 
-[J04] Yun Liang\*, **Liqiang Lu**, Jiaming Xie: OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs. **TCAD** 2020, 40(8): 1648-1661 [Download](https://liqianglu-zju.github.io/files/journal/2020/TCAD_2020_OMNI.pdf)
+[J05] Yun Liang\*, **Liqiang Lu**, Jiaming Xie: OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs. **TCAD** 2020, 40(8): 1648-1661 [Download](https://liqianglu-zju.github.io/files/journal/2020/TCAD_2020_OMNI.pdf)
 
-[J03] Liancheng Jia, **Liqiang Lu**, Xuechao Wei, Yun Liang\*: Generating Systolic Array Accelerators With Reusable Blocks. **IEEE Micro** 2020, 40(4): 85-92 [Download](https://liqianglu-zju.github.io/files/journal/2020/IEEE_Micro_2020_Generating_Systolic_Array_Accelerators_With_Reusable_Blocks.pdf)
+[J04] Liancheng Jia, **Liqiang Lu**, Xuechao Wei, Yun Liang\*: Generating Systolic Array Accelerators With Reusable Blocks. **IEEE Micro** 2020, 40(4): 85-92 [Download](https://liqianglu-zju.github.io/files/journal/2020/IEEE_Micro_2020_Generating_Systolic_Array_Accelerators_With_Reusable_Blocks.pdf)
 
-[J02] Liancheng Jia, Yun Liang\*, Xiuhong Li, **Liqiang Lu**, Shengen Yan: Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels. **IEEE T. Comput.** 2020, 69(7): 986-997 [Download](https://liqianglu-zju.github.io/files/journal/2020/TC_2020_Enabling_Efficient_Fast_Convolution_Algorithms_on_GPUs_via_MegaKernels.pdf)
+[J03] Liancheng Jia, Yun Liang\*, Xiuhong Li, **Liqiang Lu**, Shengen Yan: Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels. **IEEE T. Comput.** 2020, 69(7): 986-997 [Download](https://liqianglu-zju.github.io/files/journal/2020/TC_2020_Enabling_Efficient_Fast_Convolution_Algorithms_on_GPUs_via_MegaKernels.pdf)
 
 
 
